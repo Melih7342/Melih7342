@@ -27,7 +27,12 @@ Currently pursuing my Bachelor's in Computer Science and Digital Communications 
 
 * Special Interests: AI, IT-Security, DevOps
 
-### 📈 Stats & Contact
+### 📈 Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melih7342&layout=compact&theme=radical&hide=javascript,html,css)
+
+### Contact
+
 * 📫 Reach me at: melihguel24@gmail.com 
 
 * 📍 Vienna, Austria
