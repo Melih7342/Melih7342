@@ -15,7 +15,7 @@ Currently pursuing my Bachelor's in Computer Science and Digital Communications 
 
 ### 🛠️ Tech Stack
 
-* Languages: Java, Python, JavaScript, SQL 
+* Languages: Java, Go, Python, JavaScript, SQL 
 
 * Frameworks: Spring Boot, Flask
 
