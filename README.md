@@ -7,9 +7,7 @@
 ### 🚀 About Me
 Currently pursuing my Bachelor's in Computer Science and Digital Communications in Vienna . I am deeply passionate about building robust backend architectures and exploring the worlds of IT-Security and AI.
 
-* 🔭 Current Focus: Deep dive into Spring Boot & Cloud-native applications.
-
-* 🐍 Python Enthusiast: Building efficient backend solutions with Flask.
+* 🔭 Current Focus: Deep dive into Distributed Systems with go & Cloud-native applications.
 
 * 🛡️ Security Mindset: Implementing security best practices in every line of code (OWASP, Auth, SQLi prevention).
 
